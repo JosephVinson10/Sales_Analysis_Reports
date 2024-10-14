@@ -1,7 +1,7 @@
 # Sales Data Analysis and Forecasting Dashboard
 
 ## Project Overview
-The **Sales Data Analysis and Forecasting Dashboard** is an interactive web-based tool designed to help businesses analyze their sales data, forecast future sales trends, and gain actionable insights to improve decision-making. The project utilizes data analysis techniques, machine learning models, and interactive visualizations to present a comprehensive overview of sales performance.
+The **Sales Data Analysis and Forecasting Dashboard** is an interactive web-based tool designed to learn about how businesses analyze their sales data, forecast future sales trends, and gain actionable insights to improve decision-making. The project utilizes data analysis techniques, machine learning models, and interactive visualizations to present a comprehensive overview of sales performance.
 
 This dashboard is developed using Python, Streamlit, Plotly, and various data science libraries to provide an intuitive and user-friendly interface for exploring sales data.
 
